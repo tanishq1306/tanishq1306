@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi There 😀👋, I'm Tanishq
 
-<!--
-**tanishq1306/tanishq1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my Projects and Problem Solving skills.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning more about Android app development, Blockchain and exploring other Tech's.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything, I am happy to help.
+
+- 📫 How to reach me: tanishqsaini1306@gmail.com
+
+- ⚡ Fun fact: Beside's developing stuff, I enjoy playing outdoor sports ⚽🏏 and traveling 🚘🏝️.
+
+<hr>
+
+### Languages
+C, C++, Java, Kotlin, Python, SQL, Bash, HTML & CSS.
+
+
+### Tech Stack
+<p align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="C++" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> 
+</p>
+
+
+|[![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishq1306&count_private=true&show_icons=true&theme=nord)](https://github.com/tanishq1306/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq1306&count_private=true&layout=compact&theme=nord)](https://github.com/tanishq1306/github-readme-stats)|
+|---|---|
+
+
+
