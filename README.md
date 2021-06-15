@@ -1,4 +1,4 @@
-## Hi There 😀👋, I'm Tanishq
+# Hi There 😀👋, I'm Tanishq
 
 - 🔭 I’m currently working on my Projects and Problem Solving skills.
 
