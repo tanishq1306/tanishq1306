@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working on my Projects and Problem Solving skills.
 
-- 🌱 I’m currently learning more about Android app development, Blockchain and exploring other Tech's.
+- 🌱 I’m currently learning more about Android app development, Blockchain, Cloud Native and AWS ML.
 
 - 💬 Ask me about anything, I am happy to help.
 
 - 📫 How to reach me: tanishqsaini1306@gmail.com
 
-- ⚡ Fun fact: Beside's developing stuff, I enjoy playing outdoor sports ⚽🏏 and traveling 🚘🏝️.
+- ⚡ Fun fact: Beside's developing stuff, I enjoy playing outdoor sports ⚽🏃‍♂️🏏 and traveling 🚘🏝️.
 
 - 📃 [Resume](https://github.com/tanishq1306/tanishq1306/blob/main/Resume.pdf)
 <hr>
