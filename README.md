@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: Beside's developing stuff, I enjoy playing outdoor sports ⚽🏃‍♂️🏏 and traveling 🚘🏝️.
 
-- 📃 [Resume](https://github.com/tanishq1306/tanishq1306/blob/main/Resume.pdf)
+<!-- 📃 [Resume](https://github.com/tanishq1306/tanishq1306/blob/main/Resume.pdf) -->
 <hr>
 
 ### Languages
