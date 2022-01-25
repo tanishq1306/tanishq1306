@@ -1,20 +1,22 @@
 # Hi There 😀👋, I'm Tanishq
 
-- 🔭 I’m currently working on my Projects and Problem Solving skills.
+- 🔭 I’m a software developer and have worked on Android, Java, Kotlin, C / C++ projects etc.
 
-- 🌱 I’m currently learning more about Android app development, Blockchain, Cloud Native and AWS ML.
+- 🌱 I like to code and implement ideas to applications. Currently learning more about android, web, System Design, DSA and finance.
 
-- 💬 Ask me about anything, I am happy to help.
+- 💬 Ask me about anything, I am happy to help and connect.
 
-- 📫 How to reach me: tanishqsaini1306@gmail.com
+- ✉️ How to reach me : Mail - tanishqsaini1306@gmail.com | Discord - tanishq#5799
 
-- ⚡ Fun fact: Beside's developing stuff, I enjoy playing outdoor sports ⚽🏃‍♂️🏏 and traveling 🚘🏝️.
+- ⚡ Fun fact : Beside's coding and developing stuff, I enjoy playing outdoor sports ⚽🏃‍♂️🏏 and traveling 🚘🏝️.
+
+-  Looking forward to gain knowledge, experience and  to collaborate 😄 and build amazing products 📱📶.
 
 <!-- 📃 [Resume](https://github.com/tanishq1306/tanishq1306/blob/main/Resume.pdf) -->
 <hr>
 
 ### Languages
-C, C++, Java, Kotlin, Python, SQL, Bash, HTML & CSS.
+C, C++, Java, Kotlin, Python, SQL, HTML & CSS.
 
 
 ### Tech Stack
