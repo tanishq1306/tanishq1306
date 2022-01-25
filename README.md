@@ -1,8 +1,8 @@
-# Hi There 😀👋, I'm Tanishq
+# Hi There 😀👋, I'm Tanishq!
 
-- 🔭 I’m a software developer and have worked on Android, Java, Kotlin, C / C++ projects etc.
+- 🧑‍💻 I’m a software developer and have worked on Android, Java, Kotlin, C / C++ projects etc.
 
-- 🌱 I like to code and implement ideas to applications. Currently learning more about android, web, System Design, DSA and finance.
+- 💻 I like to code and implement ideas to applications. Currently learning more about android, web, System Design, DSA and finance.
 
 - 💬 Ask me about anything, I am happy to help and connect.
 
