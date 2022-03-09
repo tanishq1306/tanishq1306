@@ -1,4 +1,4 @@
-# Hi There 😀👋, I'm Tanishq!
+# Hi There 😎👋, I'm Tanishq!
 
 - 🧑‍💻 I’m a software developer and have worked on Android, Java, Kotlin, C / C++ projects etc.
 
