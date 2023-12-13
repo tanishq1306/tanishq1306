@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: Beside's coding and developing stuff, I enjoy playing outdoor sports ⚽🏃‍♂️🏏 and traveling 🚘🏝️.
 
-- 🌱 Looking forward to gain knowledge, experience and  to collaborate 😄 and build amazing products 📱📶.
+- 🌱 Looking forward to gain knowledge, experience, to collaborate 😄 and build amazing products 📱📶.
 
 <!-- 📃 [Resume](https://github.com/tanishq1306/tanishq1306/blob/main/Resume.pdf) -->
 <hr>
