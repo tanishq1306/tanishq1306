@@ -6,9 +6,9 @@
 
 - 💬 Ask me about anything, I am happy to help and connect.
 
-- ✉️ How to reach me : Mail - tanishqsaini1306@gmail.com | Discord - tanishq#5799
+- ✉️ How to reach me: Mail - tanishqsaini1306@gmail.com | Discord - tanishq#5799
 
-- ⚡ Fun fact : Beside's coding and developing stuff, I enjoy playing outdoor sports ⚽🏃‍♂️🏏 and traveling 🚘🏝️.
+- ⚡ Fun fact: Beside's coding and developing stuff, I enjoy playing outdoor sports ⚽🏃‍♂️🏏 and traveling 🚘🏝️.
 
 - 🌱 Looking forward to gain knowledge, experience and  to collaborate 😄 and build amazing products 📱📶.
 
